@@ -26,4 +26,4 @@ Scroll through screenshots to see my work or download the file `Excel_Dashboard.
 
 ## How to View
 1. Download the `Excel_Dashboard.xlsx` file contained in the "Data_Files" sub-repository.
-2. Open with [Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktophttps://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop).
+2. Open with [Microsoft Excel Online](https://excel.cloud.microsoft/en-us/).

@@ -18,12 +18,12 @@ Scroll through screenshots to see my work or download the file `Excel_Dashboard.
 ![Pivot Table & Chart Screenshot](Screenshots/09_Pivot_Table-Chart_Top_10_Customers_by_Dollars_Spent.jpg)
 ![Pivot Table & Chart Screenshot](Screenshots/10_Pivot_Table-Chart_Customers_with_8_or_More_Fraudulent_Transactions.jpg)
 ![Pivot Table & Chart Screenshot](Screenshots/11_Pivot_Table-Chart_Top_10_Fraud_Instances_Count_per_Branch_Code_Multi_Slicers.jpg)
-![Pivot Table & Chart Screenshot](Screenshots/13_Excel_Data_Model.jpg)
+![Pivot Table & Chart Screenshot](Screenshots/12_Excel_Data_Model.jpg)
 ## Key Insights
-- **Insight 1: 5.06% of transactions are fraudulent, totaling to 2,363 fraudulent transactions.
-- **Insight 2: 12 branches have 28 or more fraudulent transactions
-- **Insight 3: Bill Payments, Healthcare, and Education are the top 3 transaction types
-- **Insight 4: Each of our top 10 customers have spent over $257,000
+- **Insight 1: 5.06% of transactions are fraudulent, totaling to 2,363 fraudulent transactions.**
+- **Insight 2: 12 branches have 28 or more fraudulent transactions**
+- **Insight 3: Bill Payments, Healthcare, and Education are the top 3 transaction types**
+- **Insight 4: Each of our top 10 customers have spent over $257,000**
 
 ## How to View
 1. Download the `Excel_Dashboard.xlsx` file contained in the "Data_Files" sub-repository.
